@@ -1,4 +1,4 @@
 console.log('hello dino');
 const text = document.querySelectorAll('span');
-const gnom = 'Gnom';
+const gnom = 'Statue';
 console.log(gnom);
