@@ -2,3 +2,6 @@ body {
     background-color: rgb(255, 182, 73);
     color: darkblue;
 }
+span {
+    font-size: 14px;
+}
