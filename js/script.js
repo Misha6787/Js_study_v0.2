@@ -1,2 +1,2 @@
-console.log('hello human');
+console.log('hello dino');
 const text = document.querySelectorAll('span');
